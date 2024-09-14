@@ -1,0 +1,6 @@
+flask
+Faker
+mimesis
+factory_boy
+pytest-faker
+ruff
